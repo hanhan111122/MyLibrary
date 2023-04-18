@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.libapp">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Libapp"
+        tools:targetApi="31">
+        <activity
+            android:name=".BookActivityPage"
+            android:exported="false" />
+        <activity
+            android:name=".SplashActivity"
+            android:exported="true"
+            android:noHistory="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".faq"
+            android:exported="false" />
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-7148856476613830~2291744895" />
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+
+        <activity
+            android:name=".webView"
+            android:exported="true" />
+        <activity
+            android:name=".DetailFine"
+            android:exported="false" />
+        <activity
+            android:name=".StudentBorrowBookPage"
+            android:exported="false" />
+        <activity
+            android:name=".StudentFinePage"
+            android:exported="false" />
+        <activity
+            android:name=".LateReturnSetting"
+            android:exported="false" />
+        <activity
+            android:name=".AdminLateReturn"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"></activity>
+        <activity
+            android:name=".StudentBorrowBook"
+            android:exported="false" />
+        <activity
+            android:name=".StudentReturn2"
+            android:exported="false" />
+        <activity
+            android:name=".StudentReturn"
+            android:exported="false" />
+        <activity
+            android:name=".StudentSignUp"
+            android:exported="false" />
+        <activity
+            android:name=".StudentLogin"
+            android:exported="false" />
+        <activity
+            android:name=".uploadbookpage"
+            android:exported="false" />
+        <activity
+            android:name=".dashboardmain2"
+            android:exported="false" />
+        <activity
+            android:name=".DetailActivity"
+            android:exported="false" />
+        <activity
+            android:name=".UploadBook"
+            android:exported="false" />
+        <activity
+            android:name=".dashboardmain"
+            android:exported="false" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SignupActivity"
+            android:exported="false" />
+        <activity
+            android:name=".editbook"
+            android:exported="false" />
+        <activity
+            android:name=".newsActivity"
+            android:exported="true" />
+    </application>
+
+</manifest>

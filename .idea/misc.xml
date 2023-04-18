@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/drawable/custom_edittext.xml" value="0.312" />
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/drawable/ic_baseline_bookmark_24.xml" value="0.2155" />
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/drawable/ic_baseline_clear_24.xml" value="0.2155" />
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.2155" />
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.2155" />
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.2155" />
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/drawable/ic_baseline_format_list_bulleted_24.xml" value="0.2155" />
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/drawable/ic_baseline_keyboard_return_24.xml" value="0.2155" />
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/drawable/ic_baseline_library_books_24.xml" value="0.2155" />
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.312" />
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/drawable/ic_baseline_menu_book_24.xml" value="0.2155" />
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.223" />
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/drawable/ic_baseline_person_pin_24.xml" value="0.223" />
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/drawable/ic_baseline_question_answer_24.xml" value="0.223" />
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.2155" />
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2155" />
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/drawable/lavender_border.xml" value="0.132" />
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/drawable/white_background.xml" value="0.196" />
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/font/lobster_regular.xml" value="0.22905982905982905" />
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/font/poppins_semibold.xml" value="0.5" />
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/layout/activity_admin_late_return.xml" value="0.31979166666666664" />
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/layout/activity_book_page.xml" value="0.31743589743589745" />
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/layout/activity_dashboardmain2.xml" value="0.15789473684210525" />
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/layout/activity_detail.xml" value="0.22" />
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/layout/activity_detail_fine.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/layout/activity_edit.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/layout/activity_edit_profile.xml" value="0.18697916666666667" />
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/layout/activity_faq.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/layout/activity_health_fragment.xml" value="0.2015625" />
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/layout/activity_late_return_setting.xml" value="0.31979166666666664" />
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/layout/activity_login2.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/layout/activity_news.xml" value="0.2015625" />
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/layout/activity_profile.xml" value="0.22" />
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/layout/activity_record_book.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/layout/activity_retreive_book.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/layout/activity_sign_up.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/layout/activity_signup.xml" value="0.14722222222222223" />
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/layout/activity_splash.xml" value="0.33" />
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/layout/activity_student_borrow.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/layout/activity_student_borrow2.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/layout/activity_student_borrow_book.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/layout/activity_student_borrow_book_page.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/layout/activity_student_fine.xml" value="0.31979166666666664" />
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/layout/activity_student_fine_page.xml" value="0.2015625" />
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/layout/activity_student_login.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/layout/activity_student_return.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/layout/activity_student_return2.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/layout/activity_student_sign_up.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/layout/activity_upload_book.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/layout/activity_upload_book1.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/layout/activity_uploadbookpage.xml" value="0.2125" />
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/layout/activity_web_view.xml" value="0.2015625" />
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/layout/dashboard_main.xml" value="0.22" />
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/layout/faq_item.xml" value="0.2625" />
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/layout/homefragment.xml" value="0.31979166666666664" />
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/layout/layout_item.xml" value="0.2015625" />
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/layout/lis_item_faq.xml" value="0.35" />
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/layout/progress_layout.xml" value="0.3" />
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/layout/recycle_view.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/layout/recycle_view_borrow.xml" value="0.33" />
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/layout/recycle_view_fine.xml" value="0.33" />
+        <entry key="..\:/Users/tanha/Downloads/libapp/app/src/main/res/layout/recycleviewofhome.xml" value="0.20052083333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="SuppressKotlinCodeStyleNotification">
+    <option name="disableForAll" value="true" />
+  </component>
+</project>
